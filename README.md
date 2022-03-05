@@ -15,6 +15,9 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 ### Draft DIN 91379: Characters and defined character sequences in Unicode for the electronic processing of names and data exchange in Europe, with CD-ROM
 - [DIN 91379:2021-07 - Draft](https://www.beuth.de/de/norm-entwurf/din-91379/339812645) (chargeable, in German)
 
+### Koordinierungsstelle für IT-Standards (KoSIT)
+- [String.Latin+ Lateinische Zeichen in Unicode](https://www.xoev.de/string-latin-4813)
+
 ### Wikipedia
 - [DIN SPEC 91379](https://de.wikipedia.org/wiki/DIN_SPEC_91379)
 
