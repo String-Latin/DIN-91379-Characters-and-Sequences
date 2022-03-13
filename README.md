@@ -24,7 +24,7 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 ### Free Java library for creating and editing PDF supporting DIN 91379
 - [OpenPDF](https://github.com/LibrePDF/OpenPDF)
 
-### Free Font for DIN 91379
+### Free Fonts for DIN 91379
 - [Noto Fonts](https://github.com/googlefonts/noto-fonts)
 
 ## License
