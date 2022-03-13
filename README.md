@@ -21,6 +21,12 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 ### Wikipedia
 - [DIN SPEC 91379](https://de.wikipedia.org/wiki/DIN_SPEC_91379)
 
+### Free Java library for creating and editing PDF supporting DIN 91379
+- [OpenPDF](https://github.com/LibrePDF/OpenPDF)
+
+### Free Font for DIN 91379
+- [Noto Fonts](https://github.com/googlefonts/noto-fonts)
+
 ## License
 This work ["DIN-91379-Characters-and-Sequences"](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences)
 is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/).
