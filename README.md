@@ -25,7 +25,8 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 - [OpenPDF](https://github.com/LibrePDF/OpenPDF)
 
 ### Free Fonts for DIN 91379
-- [Noto Fonts](https://github.com/googlefonts/noto-fonts), see also [https://github.com/googlefonts/noto-fonts/issues/1882](Combining comma above right at wrong position)
+- [Noto Fonts](https://github.com/googlefonts/noto-fonts), 
+  see also issue [Combining comma above right at wrong position](https://github.com/googlefonts/noto-fonts/issues/1882)
 
 ## License
 This work ["DIN-91379-Characters-and-Sequences"](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences)
