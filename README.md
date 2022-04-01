@@ -1,5 +1,6 @@
-# DIN 91379 Characters and Sequences
-The following files are simple text files containing all characters and sequences from DIN 91379.
+# DIN SPEC 91379 Characters and Sequences
+The following files are simple text files containing all characters and sequences from DIN SPEC 91379.
+The current draft for DIN 91379 contains few additional characters and sequences.
 
 They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip).
 
