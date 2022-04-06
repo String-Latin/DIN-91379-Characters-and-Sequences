@@ -4,9 +4,9 @@ The current draft for DIN 91379 contains few additional characters and sequences
 
 They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip).
 
-- [latin_letters_all_en.txt](https://github.com/String-Latin/din-91379-letters/blob/main/latin_letters_all_en.txt)
-- [latin_groups_en.txt](https://github.com/String-Latin/din-91379-letters/blob/main/latin_groups_en.txt)
-- [latin_list_all_en.txt](https://github.com/String-Latin/din-91379-letters/blob/main/latin_list_all_en.txt)
+- [latin_groups_en.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_groups_en.txt)
+- [latin_letters_all_en.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_letters_all_en.txt)
+- [latin_list_all_en.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_all_en.txt)
 
 ## References
 ### DIN SPEC 91379: Characters in Unicode for the electronic processing of names and data exchange in Europe; with digital attachment
