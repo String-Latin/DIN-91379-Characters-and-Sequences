@@ -10,10 +10,11 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 
 ## References
 ### DIN SPEC 91379: Characters in Unicode for the electronic processing of names and data exchange in Europe; with digital attachment
-- [String.Latin+ Lateinische Zeichen in Unicode](https://www.xoev.de/string-latin-4813) (Koordinierungsstelle für IT-Standards (KoSIT))
+- [String.Latin+ Lateinische Zeichen in Unicode](https://www.xoev.de/string-latin-4813) (Koordinierungsstelle für IT-Standards (KoSIT), in German)
 - [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip)     (zip, free download, in German)
 
 ### Wikipedia
+- [DIN 91379](https://en.wikipedia.org/wiki/DIN_91379)
 - [DIN SPEC 91379](https://de.wikipedia.org/wiki/DIN_SPEC_91379) (in German)
 
 ### Free Java library for creating and editing PDF supporting DIN 91379
