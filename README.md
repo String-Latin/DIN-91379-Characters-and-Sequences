@@ -16,7 +16,7 @@ This specification is replaced by DIN 91379:2022-08.
 
 They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip).
 
-- [latin_groups.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_groups_en.txt)
+- [latin_groups.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_groups.txt)
 - [latin_letters_1.2.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_letters_1.2.txt)
 - [latin_list_1.2.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_1.2.txt)
 
