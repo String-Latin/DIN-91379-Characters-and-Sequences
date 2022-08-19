@@ -1,4 +1,4 @@
-# DIN 91379 and DIN SPEC 91379 Characters and Sequences
+# DIN 91379 Characters and Sequences
 ## DIN 91379
 The following files are simple text files containing all characters and sequences from DIN 91379:2022-08.
 
