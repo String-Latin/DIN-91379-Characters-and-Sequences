@@ -36,7 +36,8 @@ bnlopt Non-Letters N3 (normative)
 ¤ ¦ ¸ ¼ ½ ¾ 
 bnlnot Non-Letters N4 (normative)
 	 
-    
+ 
+   
 dc Combining diacritics (normative)
 ̀  ́  ̂  ̄  ̆  ̇  ̈  ̋  ̌  ̐  ̕  ̛  ̣  ̥  ̦  ̧  ̨  ̱  ͟  
 gl Greek Letters (extended)
