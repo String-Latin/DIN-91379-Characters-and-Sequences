@@ -17,8 +17,8 @@ This specification is replaced by DIN 91379:2022-08.
 They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip).
 
 - [latin_groups.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_groups_en.txt)
-- [latin_letters_all_en.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_letters_all_en.txt)
-- [latin_list_all_en.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_all_en.txt)
+- [latin_letters_1.2.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_letters_1.2.txt)
+- [latin_list_1.2.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_1.2.txt)
 
 ## References
 ### DIN 91379:2022-08 Characters and defined character sequences in Unicode for the electronic processing of names and data exchange in Europe, with CD-ROM
