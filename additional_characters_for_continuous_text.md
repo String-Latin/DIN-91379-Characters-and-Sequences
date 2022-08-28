@@ -1,7 +1,7 @@
 ## Additional characters for continuous text, safe replacement
 *This is an independent proposal for the inclusion of additional characters for continuous text.
 Continous text is not in the scope of DIN 91379.
-These characters are not recommended by DIN 91379, but the use of additional charcters is allowed by this norm.*
+These characters are not recommended by DIN 91379, but the use of additional characters is allowed by this norm.*
 
 ### Allow
 For continuous text the following characters from CP1252 are allowed:
