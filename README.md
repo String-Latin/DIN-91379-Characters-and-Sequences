@@ -10,6 +10,9 @@ They are based on the information in [DIN 91379 (Beuth Verlag)](https://www.beut
 - [latin_list_new_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_new_1.3.txt) New Letters and sequences
 - [latin_list_deprecated_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_deprecated_1.3.txt) Deprecated Letters and sequences
 
+## Additional characters for continuous text, safe replacement
+[Proposal for inclusion of additional characters for continuous text](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/additional_characters_for_continuous_text.md)
+
 ## DIN SPEC 91379
 The following files are simple text files containing all characters and sequences from DIN SPEC 91379:2019-03.
 This specification is replaced by DIN 91379:2022-08.
