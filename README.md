@@ -38,7 +38,7 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 - [OpenPDF](https://github.com/LibrePDF/OpenPDF), [OpenPDF Wiki: Accents, DIN-91379, non-Latin scripts](https://github.com/LibrePDF/OpenPDF/wiki/Accents,-DIN-91379,-non-Latin-scripts)
 
 ### Free Fonts for DIN 91379
-- [Noto Fonts](https://github.com/notofonts/latin-greek-cyrillic), 
+- [Noto Latin, Greek, Cyrillic](https://github.com/notofonts/latin-greek-cyrillic), 
   see also issues ["Combining comma above right at wrong position"](https://github.com/notofonts/latin-greek-cyrillic/issues/33) and
   ["Wrong positioning for diacritics of DIN SPEC 91379 in Noto Sans Mono"](https://github.com/notofonts/latin-greek-cyrillic/issues/1)
 
