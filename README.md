@@ -36,6 +36,7 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 
 ### Free Java library for creating and editing PDF supporting DIN 91379
 - [OpenPDF](https://github.com/LibrePDF/OpenPDF), [OpenPDF Wiki: Accents, DIN-91379, non-Latin scripts](https://github.com/LibrePDF/OpenPDF/wiki/Accents,-DIN-91379,-non-Latin-scripts)
+- [Apache FOP](https://github.com/apache/xmlgraphics-fop) (Version 2.8 or newer)
 
 ### Free Fonts for DIN 91379
 - [Noto Latin, Greek, Cyrillic](https://github.com/notofonts/latin-greek-cyrillic), 
