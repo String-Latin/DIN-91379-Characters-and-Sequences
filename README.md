@@ -30,6 +30,9 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 - [String.Latin+ Lateinische Zeichen in Unicode](https://www.xoev.de/string-latin-4813) (Koordinierungsstelle für IT-Standards (KoSIT), in German)
 - [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip)     (zip, free download, in German)
 
+### ICAO Specifications 
+- [ICAO, Doc 9303, Machine Readable Travel Documents, Part 3: Specifications Common to all MRTDs, Eighth Edition, 2021](https://www.icao.int/publications/Documents/9303_p3_cons_en.pdf)
+
 ### Wikipedia
 - [DIN 91379](https://en.wikipedia.org/wiki/DIN_91379) (in English)
 - [DIN 91379](https://de.wikipedia.org/wiki/DIN_91379) (in German)
