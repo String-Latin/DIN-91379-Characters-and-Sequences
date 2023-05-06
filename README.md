@@ -7,6 +7,7 @@ They are based on the information in [DIN 91379 (Beuth Verlag)](https://www.beut
 - [latin_groups.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_groups.txt) Groups
 - [latin_letters_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_letters_1.3.txt) All letters and sequences
 - [latin_list_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_1.3.txt) List of all letters and sequences
+- [latin_list_search_form_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_search_form_1.3.txt) Mapping of Latin letters to basic letters (search form)
 - [latin_list_new_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_new_1.3.txt) New Letters and sequences
 - [latin_list_deprecated_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_deprecated_1.3.txt) Deprecated Letters and sequences
 
