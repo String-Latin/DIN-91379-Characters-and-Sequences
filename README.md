@@ -36,7 +36,7 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 
 ### Wikipedia
 - [DIN 91379](https://en.wikipedia.org/wiki/DIN_91379) (in English)
-- [DIN 91379](https://de.wikipedia.org/wiki/DIN_91379) (in German)
+- [DIN 91379](https://de.wikipedia.org/w/index.php?title=DIN_91379&oldid=233725432) (in German)
 
 ### Free Java library for creating and editing PDF supporting DIN 91379
 - [OpenPDF](https://github.com/LibrePDF/OpenPDF), [OpenPDF Wiki: Accents, DIN-91379, non-Latin scripts](https://github.com/LibrePDF/OpenPDF/wiki/Accents,-DIN-91379,-non-Latin-scripts)
