@@ -54,4 +54,4 @@ has to be allowed and processed correctly.
 
 ### Delete 
 For security reasons no character is deleted.
-See Unicode Technical Report #36: UNICODE SECURITY CONSIDERATIONS,  https://unicode.org/reports/tr36/#Deletion_of_Noncharacters and https://unicode.org/reports/tr36/#SecureEncodingConversion.
+See [Unicode Technical Report #36: UNICODE SECURITY CONSIDERATIONS](https://www.unicode.org/reports/tr36/): [3.5 Deletion of Code Points]( https://unicode.org/reports/tr36/#Deletion_of_Noncharacters) and [3.6 Secure Encoding Conversion](https://unicode.org/reports/tr36/#SecureEncodingConversion).
