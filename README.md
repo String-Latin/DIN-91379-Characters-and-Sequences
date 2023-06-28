@@ -16,7 +16,7 @@ They are based on the information in [DIN 91379 (Beuth Verlag)](https://www.beut
 
 ## DIN SPEC 91379
 The following files are simple text files containing all characters and sequences from DIN SPEC 91379:2019-03.
-This specification is replaced by DIN 91379:2022-08.
+This specification has been replaced by DIN 91379:2022-08.
 
 They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip).
 
