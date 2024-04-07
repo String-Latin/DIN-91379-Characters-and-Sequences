@@ -3,6 +3,7 @@
 The following files are simple text files containing all characters and sequences from DIN 91379:2022-08.
 
 They are based on the information in [DIN 91379 (Beuth Verlag)](https://www.beuth.de/de/norm/din-91379/353496133)[^1].
+For automatic processing please rely on the given code points, the characters are just for illustration.
 
 - [latin_groups.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_groups.txt) Groups
 - [latin_letters_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_letters_1.3.txt) All letters and sequences
