@@ -731,8 +731,7 @@ bnlopt; char; 00BE; VULGAR FRACTION THREE QUARTERS; ¾
 bnlnot; char; 0009; CHARACTER TABULATION; 	
 bnlnot; char; 000A; LINE FEED (LF); 
 
-bnlnot; char; 000D; CARRIAGE RETURN (CR); 
-
+bnlnot; char; 000D; CARRIAGE RETURN (CR); 
 bnlnot; char; 00A0; NO-BREAK SPACE;  
 dc; char; 0300; COMBINING GRAVE ACCENT; ̀
 dc; char; 0301; COMBINING ACUTE ACCENT; ́
