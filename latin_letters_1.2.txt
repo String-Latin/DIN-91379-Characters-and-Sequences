@@ -1,4 +1,4 @@
-bll Latin Letters (normative)
+bll; Latin Letters (normative)
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 a b c d e f g h i j k l m n o p q r s t u v w x y z 
 À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ð Ñ Ò Ó Ô Õ Ö Ø Ù Ú 
@@ -26,28 +26,27 @@ T̈ T̕ T̛ U̇ Z̀ Z̄ Z̆ Z̈ Z̧ a̋ c̀ c̄ c̆ c̈ c̕ c̣ c̦ c̨̆ d̂ f�
 k̂ k̄ k̇ k̕ k̛ k̦ k͟h l̂ l̥ l̥̄ l̦ m̀ m̂ m̆ m̐ n̂ n̄ n̆ n̦ p̀ p̄ p̕ p̣ r̆ r̥ r̥̄ 
 s̀ s̄ s̛̄ s̱ t̀ t̄ t̕ t̛ u̇ z̀ z̄ z̆ z̈ z̧ Ç̆ Û̄ ç̆ û̄ ÿ́ Č̕ Č̣ č̕ č̣ Ī́ ī́ Ž̦ 
 Ž̧ ž̦ ž̧ Ḳ̄ ḳ̄ Ṣ̄ ṣ̄ Ṭ̄ ṭ̄ Ạ̈ ạ̈ Ọ̈ ọ̈ Ụ̄ Ụ̈ ụ̄ ụ̈ 
-bnlreq Non-Letters N1 (normative)
+bnlreq; Non-Letters N1 (normative)
   ' , - . ` ~ ¨ ´ · ʹ ʺ ʾ ʿ ˈ ˌ ’ ‡ 
-bnl Non-Letters N2 (normative)
+bnl; Non-Letters N2 (normative)
 ! " # $ % & ( ) * + / 0 1 2 3 4 5 6 7 8 9 : ; < = > 
 ? @ [ \ ] ^ _ { | } ¡ ¢ £ ¥ § © ª « ¬ ® ¯ ° ± ² ³ µ 
 ¶ ¹ º » ¿ × ÷ € 
-bnlopt Non-Letters N3 (normative)
+bnlopt; Non-Letters N3 (normative)
 ¤ ¦ ¸ ¼ ½ ¾ 
-bnlnot Non-Letters N4 (normative)
+bnlnot; Non-Letters N4 (normative)
 	 
- 
-   
-dc Combining diacritics (normative)
-̀  ́  ̂  ̄  ̆  ̇  ̈  ̋  ̌  ̐  ̕  ̛  ̣  ̥  ̦  ̧  ̨  ̱  ͟  
-gl Greek Letters (extended)
+    
+dc; Combining diacritics (normative)
+̀ ́ ̂ ̄ ̆ ̇ ̈ ̋ ̌ ̐ ̕ ̛ ̣ ̥ ̦ ̧ ̨ ̱ ͟ 
+gl; Greek Letters (extended)
 Ά Έ Ή Ί Ό Ύ Ώ ΐ Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ 
 Τ Υ Φ Χ Ψ Ω Ϊ Ϋ ά έ ή ί ΰ α β γ δ ε ζ η θ ι κ λ μ ν 
 ξ ο π ρ ς σ τ υ φ χ ψ ω ϊ ϋ ό ύ ώ 
-cl Cyrillic Letters (extended)
+cl; Cyrillic Letters (extended)
 Ѝ А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш 
 Щ Ъ Ь Ю Я а б в г д е ж з и й к л м н о п р с т у ф 
 х ц ч ш щ ъ ь ю я ѝ 
-enl Non-Letters E1 (extended)
+enl; Non-Letters E1 (extended)
 ƒ ʰ ʳ ˆ ˜ ˢ ᵈ ᵗ ‘ ‚ “ ” „ † … ‰ ‹ › ⁰ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁿ 
 ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ™ ∞ ≤ ≥ 
