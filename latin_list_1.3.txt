@@ -731,11 +731,10 @@ bnlopt; char; 00B8; CEDILLA; ¸
 bnlopt; char; 00BC; VULGAR FRACTION ONE QUARTER; ¼
 bnlopt; char; 00BD; VULGAR FRACTION ONE HALF; ½
 bnlopt; char; 00BE; VULGAR FRACTION THREE QUARTERS; ¾
-bnlnot; char; 0009; CHARACTER TABULATION; 	
-bnlnot; char; 000A; LINE FEED (LF); 
-
-bnlnot; char; 000D; CARRIAGE RETURN (CR); 
-bnlnot; char; 00A0; NO-BREAK SPACE;  
+bnlnot; char; 0009; CHARACTER TABULATION; �
+bnlnot; char; 000A; LINE FEED (LF); �
+bnlnot; char; 000D; CARRIAGE RETURN (CR); �
+bnlnot; char; 00A0; NO-BREAK SPACE; �
 dc; char; 0300; COMBINING GRAVE ACCENT; ̀
 dc; char; 0301; COMBINING ACUTE ACCENT; ́
 dc; char; 0302; COMBINING CIRCUMFLEX ACCENT; ̂
