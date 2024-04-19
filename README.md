@@ -10,7 +10,7 @@ For automatic processing please rely on the given code points, the characters ar
 - [latin_letters_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_letters_1.3.txt) All letters and sequences
 - [latin_list_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_1.3.txt) List of all letters and sequences
 - [latin_list_search_form_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_search_form_1.3.txt) Mapping of Latin letters to basic letters (search form)
-- [latin_list_new_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_new_1.3.txt) New Letters and sequences
+- [latin_list_new_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_new_1.3.txt) Added Letters and sequences
 - [latin_list_deprecated_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_deprecated_1.3.txt) Deprecated Letters and sequences
 
 ## Additional characters for continuous text, safe replacement
