@@ -2,7 +2,7 @@
 ## DIN 91379
 The following files are simple text files containing all characters and sequences from DIN 91379:2022-08.
 
-They are based on the information in [DIN 91379 (Beuth Verlag)](https://www.beuth.de/de/norm/din-91379/353496133)[^1].
+They are based on the information in [DIN 91379 (Beuth Verlag (now DIN Media GmbH))](https://www.dinmedia.de/de/norm/din-91379/353496133)[^1].
 
 For automatic processing please rely on the given code points, the characters are just for illustration, non printable characters have been replaced in latin_list_*.txt.
 
@@ -28,7 +28,7 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 
 ## References
 ### DIN 91379:2022-08 Characters and defined character sequences in Unicode for the electronic processing of names and data exchange in Europe, with CD-ROM
-- [DIN 91379 (Beuth Verlag)](https://www.beuth.de/de/norm/din-91379/353496133)[^1]
+- [DIN 91379 (Beuth Verlag (now DIN Media GmbH))](https://www.dinmedia.de/de/norm/din-91379/353496133)[^1]
 ### DIN SPEC 91379: Characters in Unicode for the electronic processing of names and data exchange in Europe; with digital attachment
 - [String.Latin+ Lateinische Zeichen in Unicode](https://www.xoev.de/string-latin-4813) (Koordinierungsstelle für IT-Standards (KoSIT), in German)
 - [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip)     (zip, free download, in German)
