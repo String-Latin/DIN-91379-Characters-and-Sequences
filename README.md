@@ -16,7 +16,7 @@ For automatic processing please rely on the given code points, the characters ar
 ## Additional characters for continuous text, safe replacement
 [Proposal for inclusion of additional characters for continuous text](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/additional_characters_for_continuous_text.md)
 
-## DIN SPEC 91379
+## DIN SPEC 91379 (Deprecated)
 The following files are simple text files containing all characters and sequences from DIN SPEC 91379:2019-03.
 This specification has been replaced by DIN 91379:2022-08.
 
