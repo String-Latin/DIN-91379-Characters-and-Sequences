@@ -11,7 +11,7 @@ For automatic processing please rely on the given code points, the characters ar
 - [latin_list_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_1.3.txt) List of all letters and sequences
 - [latin_list_search_form_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_search_form_1.3.txt) Mapping of Latin letters to basic letters (search form)
 - [latin_list_new_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_new_1.3.txt) Added Letters and sequences
-- [latin_list_deprecated_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_deprecated_1.3.txt) Deprecated Letters and sequences
+- [latin_list_deprecated_1.3.txt](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/latin_list_deprecated_1.3.txt) Deprecated Letters and sequences (These letters must be supported but should not be used)
 
 ## Additional characters for continuous text, safe replacement
 [Proposal for inclusion of additional characters for continuous text](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/additional_characters_for_continuous_text.md)
