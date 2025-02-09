@@ -27,18 +27,19 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 - [latin_list_1.2.txt (Deprecated)](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences/blob/main/DIN_SPEC_91379_Deprecated/latin_list_1.2.txt)
 
 ## References
+### Wikipedia
+- [DIN 91379](https://en.wikipedia.org/wiki/DIN_91379) (in English)
+- [DIN 91379](https://de.wikipedia.org/wiki/DIN_91379) (in German)
+
 ### DIN 91379:2022-08 Characters and defined character sequences in Unicode for the electronic processing of names and data exchange in Europe, with CD-ROM
 - [DIN 91379 (Beuth Verlag (now DIN Media GmbH))](https://www.dinmedia.de/de/norm/din-91379/353496133)[^1]
-### DIN SPEC 91379: Characters in Unicode for the electronic processing of names and data exchange in Europe; with digital attachment
-- [String.Latin+ Lateinische Zeichen in Unicode](https://www.xoev.de/string-latin-4813) (Koordinierungsstelle für IT-Standards (KoSIT), in German)
-- [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip)     (zip, free download, in German)
 
 ### ICAO Specifications 
 - [ICAO, Doc 9303, Machine Readable Travel Documents, Part 3: Specifications Common to all MRTDs, Eighth Edition, 2021](https://www.icao.int/publications/Documents/9303_p3_cons_en.pdf)
 
-### Wikipedia
-- [DIN 91379](https://en.wikipedia.org/wiki/DIN_91379) (in English)
-- [DIN 91379](https://de.wikipedia.org/wiki/DIN_91379) (in German)
+### DIN SPEC 91379: Characters in Unicode for the electronic processing of names and data exchange in Europe; with digital attachment (Deprecated, replaced by DIN 91379)
+- [String.Latin+ Lateinische Zeichen in Unicode](https://www.xoev.de/string-latin-4813) (Koordinierungsstelle für IT-Standards (KoSIT), free Download, in German)
+- [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip)     (zip, free download, in German)
 
 ### Free Java library for creating and editing PDF supporting DIN 91379
 - [OpenPDF](https://github.com/LibrePDF/OpenPDF), [OpenPDF Wiki: Accents, DIN-91379, non-Latin scripts](https://github.com/LibrePDF/OpenPDF/wiki/Accents,-DIN-91379,-non-Latin-scripts)
