@@ -51,6 +51,11 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
   see also issues ["Combining comma above right at wrong position"](https://github.com/notofonts/latin-greek-cyrillic/issues/33) and
   ["Wrong positioning for diacritics of DIN SPEC 91379 in Noto Sans Mono"](https://github.com/notofonts/latin-greek-cyrillic/issues/1)
 
+### Free typesetting systems for DIN 91379
+- [LuaTeX/LuaLateX](https://www.luatex.org/), LuaTex is provided with [TeX Live](https://tug.org/texlive/)
+- [Typst](https://typst.app/), [Typst on GitHub](https://github.com/typst/typst)
+
+
 ## License
 This work ["DIN-91379-Characters-and-Sequences"](https://github.com/String-Latin/DIN-91379-Characters-and-Sequences)
 is licensed under a [Creative Commons Attribution 4.0 International License (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/).
