@@ -42,7 +42,8 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 - [String.Latin+ 1.2](https://www.xoev.de/sixcms/media.php/13/StringLatin%2012.zip)     (zip, free download, in German)
 
 ### Free Java library for creating and editing PDF supporting DIN 91379
--  [OpenPDF](https://github.com/LibrePDF/OpenPDF), See [OpenPDF Wiki: Accents, DIN-91379, non-Latin scripts](https://github.com/LibrePDF/OpenPDF/wiki/Accents,-DIN-91379,-non-Latin-scripts),
+- [OpenPDF](https://github.com/LibrePDF/OpenPDF), See [OpenPDF Wiki: Accents, DIN-91379, non-Latin scripts](https://github.com/LibrePDF/OpenPDF/wiki/Accents,-DIN-91379,-non-Latin-scripts),
+- [Apache PDFBox versions >=3.09, 4.0](https://github.com/apache/pdfbox)
 - [Apache FOP](https://github.com/apache/xmlgraphics-fop) (Version 2.8 or newer)
 
 ### Free Fonts for DIN 91379
