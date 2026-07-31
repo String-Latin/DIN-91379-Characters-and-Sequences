@@ -51,6 +51,7 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
 - [Noto Latin, Greek, Cyrillic](https://github.com/notofonts/latin-greek-cyrillic), 
   see also issues ["Combining comma above right at wrong position"](https://github.com/notofonts/latin-greek-cyrillic/issues/33) and
   ["Wrong positioning for diacritics of DIN SPEC 91379 in Noto Sans Mono"](https://github.com/notofonts/latin-greek-cyrillic/issues/1)
+- [Sudo coding font](https://www.kutilek.de/sudo-font/)
 
 ### Free typesetting systems for DIN 91379
 - [LuaTeX/LuaLateX](https://www.luatex.org/), LuaTex is provided with [TeX Live](https://tug.org/texlive/)
