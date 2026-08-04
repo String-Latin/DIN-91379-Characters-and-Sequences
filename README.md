@@ -53,8 +53,8 @@ They are based on the information in [String.Latin+ 1.2](https://www.xoev.de/six
   ["Wrong positioning for diacritics of DIN SPEC 91379 in Noto Sans Mono"](https://github.com/notofonts/latin-greek-cyrillic/issues/1)
 
 ### Free typesetting systems for DIN 91379
-- [LuaTeX/LuaLateX](https://www.luatex.org/), LuaTex is provided with [TeX Live](https://tug.org/texlive/)
 - [Typst](https://typst.app/), [Typst on GitHub](https://github.com/typst/typst)
+- [LuaTeX/LuaLateX](https://www.luatex.org/), LuaTex is provided with [TeX Live](https://tug.org/texlive/)
 
 
 ## License
